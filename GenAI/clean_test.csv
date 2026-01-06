@@ -1,0 +1,288 @@
+dialogue
+"Doctor: I just wanted to check a few things quickly, let's go together? Patient: Of course. Doctor: Any cardiac condition like heart failure or something? Patient: No. Doctor: Any cardiac catheterization? Patient: Hum, no. Doctor: Any history of irregular chest pain, palpitations or heartbeat? Patient: No. Doctor: Do you have high blood pressure? Patient: No. Doctor: Any history of high cholesterol? Patient: No. Doctor: Any excessive or abnormal sweating? Patient: Not really, no. Doctor: Any recent stress test or heart test? Patient: No. Doctor: Ok, thank you for answering these questions. Patient: No problem."
+Doctor: How did the patient do the activity test? Guest_clinician: Patient was good. I advised him to continue his normal activities as long as he feels well.
+"Doctor: What's the problem? Guest_family: He has a lot of pain on both feet, and if you look at him, he looks like his feet rotated inward. Doctor: All right, let me see, okay, um, he has low feet rocker. Guest_family: All right. Doctor: I think he would benefit from a subtalar arthrodesis, a possible autograft, and an achille elongation. I'll review the details of this procedure right now. Guest_family: Can we do surgery soon? Doctor: Yes, we can. But we'll probably need another procedure until his foot matures further."
+"Doctor: How do you feel today? Patient: Much better. Antibiotics really seemed to help. Doctor: Are you still experiencing any symptoms? Patient: Um, no, fortunately. I had some wheezing when I started antibiotics, but it has improved a ton. I don't think wheezing is already there. Doctor: Okay, fine."
+"Doctor: Welcome in! 
+Patient: Thank you. 
+Doctor: Let us get a little background. What is your medical history? 
+Patient: I have some memory loss problems. 
+Doctor: What kind of memory problems? 
+Patient: Well, I have seizures. 
+Doctor: Do you know what kind of seizures that you have? 
+Patient: I have temporal lobe seizures. 
+Doctor: Do you have any other health conditions? 
+Patient: I also have high blood pressure. 
+Doctor: Okay."
+"Doctor: Do you have any related family history? Patient: Do you mean heart problems in the family? Doctor: Yes, something like that. Patient: My brother died of a heart attack. Suddenly everyone was shocked. Doctor: How old was he? Patient: He was not so old; he was just fifty years old."
+"Doctor: Hello, I am Doctor James.
+Guest_family: Hi Doctor, this is my daughter Miya, and I am Jena. 
+Doctor: Nice to meet you ladies. So, Miya how old are you? 
+Patient: I am fifteen. 
+Doctor: Okay, so tell me what is going on with you?
+Patient: Well, I am having a severe headache.
+Guest_family: She has been complaining about it for almost six hours now. 
+Doctor: Oh wow. Can you tell me where exactly the pain is?
+Patient: Um, it started from my neck and then moved up to the back of my head. 
+Doctor: I see. Did you get hurt or bump your head? 
+Patient: No.
+Doctor: Does she have any history of headaches?
+Guest_family: No.
+Doctor: Okay, any nausea or vomiting?
+Patient: I am having nausea, but it's coming and going but no vomiting. Also, I am not able to tolerate light at all.
+Doctor: Hm, are you able to see properly though, any change in your vision? 
+Patient: No.
+Doctor: Any fever? 
+Patient: No.
+Guest_family: No, no fever.
+Doctor: Okay."
+"Doctor: How are you doing today, ma'am?
+Patient: I'm doing just fine.
+Doctor: Any kind of alcohol consumption?
+Patient: Nope.
+Doctor: Have you ever taken any kind of illegal drugs?
+Patient: Nope.
+Doctor: What about smoking?
+Patient: No. 
+Doctor: Are you still working? 
+Patient: No, sir. I had issues with my knees, and they had to put in the new ones. I was kind of disabled and that's why I retired."
+Doctor: Does it bother you to develop more about your family history? Did one of your parents suffer from medical problems? Patient: Of course. My father had a heart disease. He died at seventy-five years of age. He had a diabetic sister and I think my mother also had diabetes. Doctor: I understood. Patient: My mother had a long history of mini-AV. She had no memory or dementia problems when she died at eighty-five years of age. They believe that she died due to old age. Doctor: Thank you for deepening.
+"Doctor: Are you taking any medications for your pain?
+Patient: Yeah, occasionally.
+Doctor: Which one?
+Patient: Just a regular pain medicine."
+"Doctor: Any past medical problems I should know of?
+Patient: No, ma'am. I am forty three and this is the first time I have had a major issue. It's only been this past month where I've felt weaker than usual. I'm much more tired and short of breath whenever I move around.  
+Doctor: Any recent weight loss? 
+Patient: Yeah, I actually lost about fifteen pounds in less than two or three months. 
+Doctor: How's your appetite? Any nausea, vomiting, diarrhea? 
+Patient: Appetite is pretty fine. No nausea, vomiting, or diarrhea.
+Doctor: How about fever, chills, sweats, cough? 
+Patient: No, ma'am. 
+Doctor: And any chest pain with your shortness of breath? 
+Patient: No, ma'am."
+"Doctor: It looks like your Xrays show bronchitis.  
+Patient: Is there anything I can take for it? 
+Doctor: Yes, I'm going to prescribe you something that will help clear your lungs."
+Doctor: Have you had any procedures in the past? Patient: No.
+Doctor: Do you know anyone in your family who had cancer? Patient: I don't know anyone.
+"Doctor: What brings you in today? 
+Patient: I've had a lot of discomfort in my private area. 
+Doctor: When did it start? 
+Patient: It's been going on for about two weeks now. 
+Doctor: Have you noticed any abnormal discharge? 
+Patient: Not really, no. But it's been super itchy down there.  
+Doctor: Any abdominal pain, nausea, vomiting?  
+Patient: Uh no, but I'm having some pain here. 
+Doctor: Near your pelvis? 
+Patient: Yeah. 
+Doctor: Have you started any new lotions or products? 
+Patient: No. 
+Doctor: Have you tried anything for the pain or itching? 
+Patient: No, not yet. I thought it'd go away on it's own. 
+Doctor: If it's okay with you, I'd like to do a pelvic exam. 
+Patient: Fine with me. 
+Doctor: Have you been sexually active prior to or after noticing these concerns? 
+Patient: Uh once this past week, but it was pretty painful. 
+Doctor: I see. You may have an infection, which is why I'd also like to send out samples to the lab. Did you use protection? 
+Patient: Yeah, I take birth control. But I've been struggling a bit with my mood and I'm wondering if it's because of the new birth control pills. 
+Doctor: We can look into that as well. Hang tight while I grab the nurse for the pelvic exam."
+"Doctor: How about some surgery in the past? Patient: Well, I had colon surgery in nineteen eighty-nine or it was ninety, oh yes in nineteen ninety. Doctor: Okay and anything else? Patient: Oh yes, I had three surgeries for my breast one was the same year as my colon surgery, one was before that. So, the first one was in nineteen eighty-seven I think then nineteen ninety and the last one was in two thousand five. Doctor: Wow, you remember the years too. Patient: Yes, surprisingly."
+Doctor: Tell me about your family medical history. Patient: All I know is that my grandmother has diabetes.
+Doctor: Are you aware of any medical problems in your family? Patient: I don't know. Doctor: What about your father's family? Patient: I don't know my father. I have no idea about his family. Doctor: What about his mother? Maternal family? Patient: I have no idea. I'm not in contact with her.
+"Doctor: So it looks like you're here today for a noticeable foreign body sensation in your eye. 
+Patient: Yeah, my left eye. Never had this happen to me in my forty one years.
+Doctor: First time for everything I guess! When did you first notice the sensation? 
+Patient: Um when I was at work this morning. It felt like something was in my eye. I went to the bathroom mirror to check it out, but didn't see anything. I flushed my eyes with water in hopes of it helping with the weird feeling.
+Doctor: Okay. Hm, are you experiencing any eye pain, blurred vision, or sensitivity to light? 
+Patient: The pain has definitely gotten worse since this morning. My vision is fine and bright lights don't seem to be a problem."
+"Doctor: Do you have a heart condition like heart failure or something like that? Patient: No. Doctor: Do you have any cardiac catheterization? Patient: Um, no. Doctor: Any history of chest pain, palpitations, or irregular heartbeat? Patient: No. Doctor: Do you have high blood pressure? Patient: No. Doctor: Any history of high cholesterol? Patient: No. Doctor: Any excessive or abnormal sweating? Patient: Not really, no. Doctor: Any stress tests or recent cardiac tests? Patient: No. Doctor: Okay, thanks for answering these questions. Patient: No problem."
+"Doctor: Do you use tobacco products? Cigarettes, chewing tobacco or vaping? 
+Patient: I used to smoke a pack a day.  I quit that awful habit in nineteen eighty five. 
+Doctor: Do you work? 
+Patient: I am retired.
+Doctor: Wonderful. Is your husband retired with you?
+Patient: Yes. We both are. I cannot imagine working a full time job at seventy six years old."
+"Doctor: You okay there? 
+Patient: Uh yeah, sorry. I'm just trying to adjust the stretcher. 
+Doctor: Want some help? 
+Patient: No, thank you. I think I got it. 
+Doctor: So how're you doing? 
+Patient: Fine, but I have this weird lump in my chest. 
+Doctor: When did you first notice it? 
+Patient: It's been there for a while. I'd say almost half a year. 
+Doctor: Have you seen anyone for it? 
+Patient: No, not until now. 
+Doctor: Is it causing you pain? And has it changed in size at all?
+Patient: Not really. It's just noticeable when I run my fingers over it. 
+Doctor: Have you spotted any swelling or redness to the area? Any drainage? 
+Patient: No. 
+Doctor: I see. Okay. Let me take a look and then I'll have you walk down the hall to get an Xray so we can see what's going on."
+"Doctor: How are you feeling? 
+Patient: I am feeling better now. 
+Doctor: What happened last night? 
+Guest_family: She went out to a party last night. She came home drunk and high. 
+Doctor: What did you take? 
+Patient: I took Ecstasy. I only had two drinks. 
+Doctor: How much Ecstasy did you take? 
+Patient: I didn't take them all at once. I think I took six tabs.  
+Doctor: What time did you start taking the tablets? 
+Patient: We started taking it kind of late. I think it was midnight. 
+Guest_family: When she came home, she was agitated and physically shaking. She was pacing all over the house. Then she threw up. That is when I got nervous and called nine one one. 
+Doctor: Mom, did you notice any blood, or any yellow or green color in the vomit? 
+Guest_family:  No. 
+Doctor: Are you still feeling nauseous? 
+Patient: No. I feel fine. Well, I feel weird but not nauseous.
+Doctor: Are you experiencing any pain at all? 
+Patient: No. 
+Doctor: Did you or do you feel depressed? 
+Patient: No. 
+Doctor: Do you or have you ever had suicidal thoughts? 
+Patient: No. 
+Doctor: Are you seeing or hearing things that are not real? 
+Patient: No. 
+Doctor: Do you or have you ever had thoughts of harming yourself? 
+Patient: No. I was not trying to harm myself or anyone else. I just wanted to have a little fun. 
+Guest_family: She seems to be back to her usual self now. 
+Doctor: Just one more question. Prior to last night have you had any recent illnesses or injuries? 
+Patient: No."
+"Doctor: What do you do? Are you working or in school?
+Patient: I am in school.
+Doctor: Good.
+Patient: Thanks."
+"Doctor: Have you ever had surgery, ma'am? 
+Patient: Yes, I had it for melanoma some time ago. 
+Doctor: I see here that you had a hysterectomy as well, is that correct? 
+Patient: Oh, yes, that's true. I had that done too."
+"Doctor: Do you know any familiar illnesses in your family? Patient: You mean like B P, high sugar? Doctor: Yes. Patient: No, no one in my family has anything like that. Doctor: Great."
+"Doctor: How would you rate your general health?
+Patient: I've been in reasonably good health at least physically. I try to go on frequent walks and eat a clean diet. However, there was one instance where I was not well mentally. After my husband died in nineteen seventy five, I had what I believe was a nervous breakdown. As a result of this, I was hospitalized for several weeks and treated with E C T. 
+Doctor: I'm so sorry to hear about the loss of your husband. I can't imagine how difficult that must've been. I'm glad that you sought the care that you needed to feel better at that time. Did this happen when you were living in the United States or Korea?
+Patient: This all happened when I was living in Korea. I'm grateful that I had my family and friends to support me.
+Doctor: Social support is very important, especially when you are processing the loss of a loved one. 
+Patient: Absolutely. 
+Doctor: I have a few more questions before we move on. Any past medical problems?
+Patient: I used to have high blood pressure.
+Doctor: When you say used to, do you mean it's been resolved now?
+Patient: Yes.
+Doctor: Great news. How about surgeries? Have you had any in the past?
+Patient: None whatsoever.
+Doctor: Any alcohol or tobacco?
+Patient: No, I stay away from things like that."
+"Patient: Hello, doctor. Doctor: So I've reviewed your past notes, are there any other diagnoses I should know about? Patient: Well, I've had a depression for a while now. Doctor: Thank you for telling me about it."
+Doctor: What do you use to treat your asthma? Patient: I use my Albuterol inhaler.
+"Doctor: Let's check your throat. Okay, I don't see any swelling or any mass. Is there any pain when I touch you? 
+Patient: No pain. 
+Doctor: I don't feel any kind of lump in your throat. That is a good sign. It looks very flexible and symmetric."
+"Doctor: Welcome back. 
+Patient: Thank you. 
+Doctor: You are back for a follow up on your right arm pain, right? 
+Patient: Yes. It has been almost a year since the pain first started. 
+Doctor: How has your arm been feeling? 
+Patient: I still have this dull pain in my upper outer area of my arm. 
+Doctor: How long does the pain last? 
+Patient: It was coming and going, but now the pain is more persistent since I last saw you. It is still happening every day. 
+Doctor: Remind me again. You are right handed. Right? 
+Patient: Yeah. It makes is hard to do things with the persistent pain. 
+Doctor: I bet it does. Are you experiencing any numbness or tingling sensation in your arm or hand? 
+Patient: No, but I have had this achy sensation in my hand radiating down to my fingers. 
+Doctor: Do you have a history of any other neck or shoulder injuries? 
+Patient: It is not from a specific injury but I have had this neck pain for thirty years. 
+Doctor: Did you see anyone for the neck pain? 
+Patient: Yes. I saw someone for it in two thousand and six, and then I developed this ear pain. They could not figure out what was going on so eventually I was sent to have an M R I of my neck and upper spine, which showed some degenerative changes. Then I was referred to Doctor X who was treating me for neck pain.  He gave me steroid injections. 
+Doctor: Are you still seeing Doctor X for the epidural injections? 
+Patient: Yes. I have been seeing him since two thousand and seven. 
+Doctor: How old are you?
+Patient: I am fifty eight. 
+Doctor: Are you experiencing any symptoms from receiving the injections? 
+Patient: Those are for neck pain. My arm pain recent. I have been having the injections for a while now, without any trouble. 
+Doctor: What medications have you been taking for the pain? 
+Patient: There are a few of them that I take. I gave the list to the nurse. 
+Doctor: Okay. 
+Patient: I also have taken several Medrol packs. They make my blood sugars to increase so I try not to take it. 
+Doctor: Okay. Does the pain prevent you from doing your daily activities or decrease your quality of life? 
+Patient: No. I can do everything like normal, but constant nagging pain does get to me at times."
+"Doctor: Alright we already spoke about your past medical history, anything else you might want to add?
+Guest_family: Oh, dad did you also talk about your depression?
+Doctor: Depression? I don't think we spoke about that.
+Patient: Yeah we didn't, it slipped out of my mind.
+Guest_family: My father has a history of depression and anxiety.
+Doctor: Okay, let me make a note of it."
+"Doctor: Any changes in appetite? Patient: Um, no. Doctor: Any stomach pains or changes in bowel deposition? Patient: No. Doctor: Any history of intestinal problems? Patient: No, not really. Doctor: Any problems with hernia? Patient: No. Doctor: Any history of stomach ulcer? Patient: No. Doctor: Did you notice any rectal bleeding? Patient: No. Doctor: Any liver problems or jaundice? Patient: Um, no. Doctor: Okay."
+"Doctor: I see here that you have no surgical history. Is this correct? 
+Patient: Yes, indeed. At least for now. Who knows what the future will bring."
+"Doctor: What do you do to live? Patient: I am an officer in the U.S. Navy office, specialist in artillery repair. Doctor: Do you drink alcohol? Patient: I drink socially but I stop two years ago. Doctor: How about smoking and drugs? Patient: No, not that."
+"Doctor: Hello. How are you doing today? 
+Patient: I want to get surgery on my leg. 
+Doctor: Have you ever had a surgery. 
+Patient: I did. Here's a list of them. 
+Doctor: Looks like you had eye surgery, cataract surgery, and lumbar decompression, correct? 
+Patient: Yeah. So, what options do I have for surgery? 
+Doctor: I need to see what the problem is first."
+"Doctor: Do you have any medical conditions that I should know about?
+Patient: No, not that I know of. 
+Doctor: So, there's no history of depression, or cancer, or high blood pressure? 
+Patient: No, it's not ringing any bells."
+"Doctor: Okay I am looking at you for multiple issues today. One of the biggest being swelling on your left leg. Can you tell me more about that?
+Patient: Yes sure. I got this swelling for almost three years now, and it has been worse for the past two to three months. Sometimes it gets better in the morning when I get up, but then throughout the day it begins to swell again.  Lately it is staying bigger, and it feel uncomfortable with it being so large.  The right leg also swells, but not nearly like the left leg.
+Doctor: How old are you, miss?
+Patient: I am forty four. My biggest problem is this pain in my left shoulder. I feel as if this low back pain is due to a poor mattress. 
+Doctor: Did you hurt your shoulder?
+Patient: No, I don't remember hurting shoulder, but gradually I am losing some mobility.  It is hard for me to get my hands behind my back or behind my head.  I am losing strength in the left shoulder gradually for the last year.
+Doctor: Ok let's look at your labs.
+Patient: So far white counts are high. In April two thousand five Doctor X Y Z was asked to look at my high white count, but she thought it wasn't a problem and asked me to come for follow up.
+Doctor: Any other complaints?
+Patient: I have a lot of frequency with urination, and I get up to pee at night at least two to three times.   Also, I have gained weight, I think about twelve pounds since March.  Right now, I am two eighty four pounds.
+Doctor: Okay. So, I can see that your blood pressure is staying stable.  You do take Atenolol twelve point five M G per day and Lasix as needed. 
+Patient: Yes, that's correct. It makes me pee so much. I do not take it.
+Doctor: How about chest pain or shortness of breath?
+Patient: No chest pain, but I am gradually feeling short of breath.
+Doctor: What work you do?
+Patient: I work for the city of Wichita as bus dispatcher. My work demands sitting a lot, and just really does not move around much.  But towards the end of the day my leg swells up.
+Doctor: Okay that's okay.
+Patient: I need cholesterol check right?
+Doctor: Yes, you do, but all the other labs are normal."
+"Doctor: So, do you smoke? Patient: No. Doctor: What about alcohol? Patient: I drink, but just normal. I have no problem with alcohol."
+"Doctor: Has anyone in your family had heart diseases? 
+Patient: Yes my father. They did his heart bypass surgery when he was sixty. 
+Doctor: Is he alright now?
+Patient: Yes I know what you mean.
+Patient: Yes by God's grace, both my parents are alive.
+Doctor: What exactly was the heart disease named? Do you know?
+Patient: Yeah they said it was something called coronary artery disease and he had many strokes due to that.
+Doctor: How old is he now?
+Patient: My father is in his eighties. My mother is eighty years old too and she has dementia. My father has dementia too. 
+Doctor: Okay. Do you smoke or drink alcohol? And how much?
+Patient: No I do not drink or smoke."
+"Doctor: Do you have any major medical conditions that I should know about? 
+Patient: Oh, yeah, I have a whole list of things going on, doctor. 
+Doctor: Like what, ma'am? 
+Patient: Well, I have high blood pressure, hypothyroidism, arthritis, and G E R D.
+Doctor: I see, what about any mental health, or neurological diseases? 
+Patient: Um, I have an anxiety disorder, and I had migraines about thirty years ago. 
+Doctor: Thank you, I also see on my chart that you've had Morton's neuromas before, is that true? 
+Patient: Yeah, I have one on both feet."
+"Doctor: Are you taking Citalopram for depression?
+Patient: Yes, I take it once a day.
+Patient: It is ten M G tablet.
+Doctor: Is that so?
+Patient: Yes.
+Doctor: What do you take for pain?
+Patient: Just Tramadol as needed."
+"Doctor: Have you experienced any headaches or blackouts recently?
+Patient: No.
+Doctor: Dizziness or seizure?
+Patient: Nope.
+Doctor: Any history of stroke? 
+Patient: No. 
+Doctor: Okay, good."
+"Doctor: So, to double check, you have a history of hay fever and asthma, correct? 
+Patient: Yes. I was also recently diagnosed with cervical dysplasia. I found out shortly after my last O B G Y N visit. 
+Doctor: And are you planning to follow up with your O B G Y N in the upcoming months? 
+Patient: Yeah, the next visit is scheduled and everything."
+"Doctor: Hi again! How has your acne been since you started spironolactone? Patient: It has improved. Doctor: Have you experienced an increase in thirst, mood changes or unusual fatigue? Patient: No."
+Doctor: Where do you work? Patient: I am a truck driver. It is a great construction company. I work for them. Doctor: Smoke? Patient: Yes. Doctor: Cigarette or something else? Patient: I smoke.
+"Doctor: Do you have any medical conditions you should know about? Patient: I have high blood pressure and asthma. Doctor: I also see here that you have cervical cancer, can you tell me more about that? Patient: Yes, I was diagnosed at age 15. Doctor: How would you describe the progression of your cancer? Patient: Now, um, I would say that it is latent."
+"Doctor: As per your chart, I see you have C O P D and hypertension.
+Patient: Yes that is right.
+Doctor: Okay."
