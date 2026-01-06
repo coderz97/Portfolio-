@@ -1,4 +1,4 @@
-# Information Retrieval
+# Information Retrieval with GUI
 
 
 CS665, Summer24  Project 
