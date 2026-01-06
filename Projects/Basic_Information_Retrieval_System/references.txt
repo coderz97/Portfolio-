@@ -1,0 +1,11 @@
+gui:
+https://www.youtube.com/watch?v=4bMU1xAolSg&t=340s
+functions: https://www.google.com/search?sca_esv=b20e215ce61cde95&rlz=1C5CHFA_enUS1104US1105&sxsrf=ADLYWIK7RxJ6CPp5KZPyXjemyla3E09xJg:1715012433915&q=how+to+import+another+python+file+in+vscode&tbm=vid&source=lnms&prmd=visnbmtz&sa=X&ved=2ahUKEwiPsqKXt_mFAxU448kDHaC1CWQQ0pQJegQIERAB&biw=1440&bih=813&dpr=2#fpstate=ive&vld=cid:572a4aa3,vid:mjLPBC3PeO0,st:0
+
+https://www.geeksforgeeks.org/creating-tabbed-widget-with-python-tkinter/
+
+
+regex to remove hyphens: https://stackoverflow.com/questions/48923599/searching-for-all-variations-of-hyphens-and-dashes-in-regex
+
+tokenize: https://www.nltk.org/api/nltk.tokenize.html
+preprocessing: https://www.geeksforgeeks.org/text-preprocessing-in-python-set-1/
