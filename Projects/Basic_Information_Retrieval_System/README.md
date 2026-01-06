@@ -1,11 +1,8 @@
 # Information Retrieval
 
 
-Team:
-
 CS665, S24  Project 
 
-Sreya Jain Tobji
 Tirumala Tejaswi Masimukku
 
 
