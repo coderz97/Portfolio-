@@ -1,0 +1,769 @@
+ID,section_header,section_text,dialogue
+TR=EN-ES-EN 346,PASTMEDICALHX,"None.  No history of hypertension, diabetes, heart disease, liver disease or cancer.","Doctor: Let's see. Any history of high blood pressure or diabetes? Patient: No, sir. Doctor: What about heart disease? Patient: No, no heart disease. Doctor: And no cancer? Patient: No and for that I am grateful."
+350,FAM/SOCHX,"The patient is a former smoker, reportedly quit in 2007.  He used cocaine in the past, reportedly quit in 2005.  He also has a history of alcohol abuse, but apparently quit more than 10 years ago.","Doctor: Any history of smoking? 
+Patient: Uh yeah, but I quit in two thousand seven. 
+Doctor: On average, how many packs per day did you smoke? 
+Patient: Uh if I were to guess, I'd say one pack per day. 
+Doctor: Any other drugs? 
+Patient: I used to do coke, but I quit that in two thousand five. 
+Doctor: And any history of drinking? 
+Patient: Um I used to drink one pint per day, but I quit drinking more than ten years ago."
+679,PASTMEDICALHX,"Hypertension, hypothyroidism, degenerative joint disease, GERD, anxiety disorder, Morton neuroma of her feet bilaterally, and distant history of migraine headaches some 30 years ago.","Doctor: Do you have any major medical conditions that I should know about? 
+Patient: Oh, yeah, I have a whole list of things going on, doctor. 
+Doctor: Like what, ma'am? 
+Patient: Well, I have high blood pressure, hypothyroidism, arthritis, and G E R D.
+Doctor: I see, what about any mental health, or neurological diseases? 
+Patient: Um, I have an anxiety disorder, and I had migraines about thirty years ago. 
+Doctor: Thank you, I also see on my chart that you've had Morton's neuromas before, is that true? 
+Patient: Yeah, I have one on both feet."
+49,FAM/SOCHX,"The patient lives in a board and care.  No tobacco, alcohol or IV drug use.","Doctor: Where do you live?
+Patient: I live in a board and care. It is a nice small care home with some very nice and supportive people. It is just next to the Safeway on Village Drive. 
+Doctor: Nice. It looks like you love living there. 
+Patient: Oh yes. I feel very relaxed there. 
+Doctor: Did you consume alcohol in any way? 
+Patient: No Sir. 
+Doctor: Any tobacco consumption? 
+Patient: Never in my life. 
+Doctor: Did you ever try any kind of illicit drugs? Any I V drugs? 
+Patient: No. I have always kept myself away from all those things."
+582,CC,Chest pain.,"Doctor: What is going on with him?
+Guest_family: He is complaining of chest pain."
+428,FAM/SOCHX,Non-smoker. Social drinker.,"Doctor: Do you smoke or drink? 
+Patient: Never smoked a cigarette a day in my life. As for alcohol, I'll drink socially with friends and family."
+113,PASTMEDICALHX,Hypertension.,"Doctor: Do you have diabetes or blood pressure problems? 
+Patient: Yes, I have hypertension but no diabetes. 
+Doctor: Alright."
+TR=EN-FR-EN 1091,FAM/SOCHX,"Married, unemployed. 2 children. Patient was born and raised in Iowa. Denied any h/o Tobacco/ETOH/illicit drug use.","Doctor: I was born and raised in Iowa. My husband and I moved here twenty years ago, and we are here since. Doctor: This is a wonderful city. Do you have children? Patient: Yes! We have two children. Doctor: Do you have a history or current use of tobacco, alcohol and drugs or recreational substances? Patient: I have a glass of wine from time to time but not the rest."
+1032,ROS,"No coughing, sputum production, dyspnea or chest pain.  No vomiting or abdominal pain.  No visual changes.  No neurologic deficits other than some numbness in his left hand.","Doctor: Where are you having numbness? 
+Patient: In my left hand. 
+Doctor: And no other symptoms? Any coughing or chest pain?
+Patient: No. Just that weird feeling in my left hand.
+Doctor: Any visual changes or motor changes. 
+Patient: Nothing. 
+Doctor: Great. What about any phlegm or shortness of breath?
+Patient: Nope."
+243,FAM/SOCHX,Noncontributory.  No one else at home is sick.,"Doctor: Is anyone else at home sick? 
+Patient: No. My husband and daughter seem to be doing okay. They haven't complained of anything yet."
+566,GENHX,"This 65 y/o RHM reportedly suffered a stroke on 1/17/92. He presented locally at that time with complaint of episodic confusion and memory loss lasting several minutes per episode. The ""stroke"" was reportedly verified on MRI scan dated 1/17/92. He was subsequently placed on ASA and DPH. He admitted that there had been short periods (1-2 days duration) since then, during which he had forgotten to take his DPH. However, even when he had been taking his DPH regularly, he continued to experience the spells mentioned above. He denied any associated tonic/clonic movement, incontinence, tongue-biting, HA, visual change, SOB, palpitation, weakness or numbness. The episodes of confusion and memory loss last 1-2 minutes in duration, and have been occurring 2-3 times per week.","Doctor: How old are you, sir? 
+Patient: I'm sixty five years old. 
+Doctor: Are you right handed or left handed? 
+Patient: I'm right handed. 
+Doctor: When was your last stroke? 
+Patient: Well, it was on January seventeenth. I had these episodes where I was like always so confused and looks like I lost everything. All my memory and everything. And then they did a scan. It was verified that I was having a stroke on the same day. 
+Doctor: Did they put you on some medications? 
+Patient: They gave me an anticonvulsant and aspirin. 
+Doctor: Are you taking them regularly? 
+Patient: There have a few times like one or two days that I forgot to take my, uh, dyphenhydramine, but even when I'm taking it regularly, I'm still having all those symptoms or forgetfulness, confusion, and everything. 
+Doctor: Do you feel anything else along with these episodes like a urine urgency, tendency to bite your tongue, headaches, any visual change, or your heart is beating very fast? Any kind of weakness or numbness or shortness of breath? 
+Patient: No nothing else, just the confusion and forgetfulness. 
+Doctor: How frequent are these episodes? 
+Patient: Well, they occur like two or three times in a week. Each one of the episodes lasts for like one or two minutes."
+523,PLAN,"2 g sodium, low fat, low cholesterol diet.","Doctor: How's the low fat and low cholesterol diet going? Have you been finding it manageable? 
+Patient: Yeah, I guess. I've tried to also reduce my salt intake to about two grams."
+1193,FAM/SOCHX,Retired employee of Champion Automotive Co. Denies use of TOB/ETOH/Illicit drugs.,"Doctor: Are you still working?
+Patient: Retired some time ago.
+Doctor: What was your profession?
+Patient: I used to work at a car repair shop called Champion Automotive Company.
+Doctor: Nice. How did you enjoy the work?
+Patient: I liked it a lot, but there came a time where I knew it was the end of the road for me. I'm really enjoying retirement. 
+Doctor: I bet. I have cousin who owns a car repair shop. He's almost always busy. 
+Patient: Yeah, it can be a lot sometimes.
+Doctor: Any smoking, drinking, or hard drugs?
+Patient: I can confidently say no to each one. 
+Doctor: Great to hear."
+298,FAM/SOCHX,"Grand Aunt (stroke), MG (CAD), Mother (CAD, died MI age 63), Father (with unknown CA), Sisters (HTN), No DM in relatives.","Doctor: Is there any family medical history? 
+Patient: I have a whole list. See, my grand aunt had a stroke. My M G had heart issues same as my mom, who died of a heart attack at sixty three. My father had some sort of cancer. I don't know what exactly. And my sisters have blood pressure issues. 
+Doctor: Wow, that sure is a list. Anyone with diabetes? 
+Patient: No. Well, that is one thing that skipped my family."
+TR=EN-FR-EN 238,MEDICATIONS,None.,Doctor: Are you taking medication or daily supplements? Patient: No.
+363,GENHX,Mr. ABC is a 30-year-old man who returns in followup of his still moderate-to-severe sleep apnea.  He returns today to review his response to CPAP.,"Doctor: Hi sir, how old are you?
+Patient: I am thirty.
+Doctor: We are following up today for your moderate to severe apnea, right?
+Patient: Yes, that is correct, I still can't sleep.
+Doctor:  Okay and you did the CPAP?
+Patient: Yes.
+Doctor: Okay, let's review it today.
+Patient: Sure."
+534,FAM/SOCHX,Unknown.,"Doctor: Do you have patient's family history? 
+Guest_clinician: At this point of time, we don't have it.
+Doctor: Hm, okay."
+54,FAM/SOCHX,As far as heart disease there is none in the family.  As far as cancer two cousins had breast cancer.  As far as diabetes father and grandfather had type II diabetes.  Son has type I diabetes and is struggling with that at the moment.,"Doctor: Tell me a little bit about your family history. 
+Patient: My dad and grandpa both had type two diabetes. My son is struggling with type one diabetes at the moment.  
+Doctor: I'm sorry to hear that. Does anyone in your family have heart problems? 
+Patient: No. 
+Doctor: How about cancer? 
+Patient: Two of my cousins had breast cancer."
+310,GYNHX,"Gravida 2, Para 2, Ab 0. Menstrual periods have been regular, last menstrual period almost 1 month ago. No menorrhagia. Never had a mammogram. Has yearly Pap smears which have all been normal.","Doctor: Is this baby number two? 
+Patient: Yes, this is baby number two. 
+Doctor: How many times have you been pregnant, including miscarriages or abortions if any? 
+Patient: I've been pregnant two times in total. No miscarriages or abortions. 
+Doctor: When was your last period? 
+Patient: About a month ago. 
+Doctor: And how would you describe your periods? Light, normal, heavy? 
+Patient: Pretty normal. 
+Doctor: Any abnormal pap smears? 
+Patient: No, fortunately they've all been normal. 
+Doctor: That's wonderful to hear. And my last question for you is if you've ever gotten a mammogram? 
+Patient: I haven't gotten one before. Do I need to get one? I just turned thirty nine. What's the recommended age again? 
+Doctor: It depends. For example, the recommended age would be younger for someone who has a family history of breast cancer. Given that you don't have a positive family history of breast cancer, I'd advise getting one in a few years at the age of forty five."
+107,FAM/SOCHX,Negative for cancer.,"Doctor: Do you know anyone in your family whose had cancer? 
+Patient: No one that I know."
+128,FAM/SOCHX,He quit smoking in 1968.  His current weight is 183 pounds.  His tallest height is 5 feet 10 inches.,"Doctor: Are you a smoker? 
+Patient: I used to smoke. I quit in nineteen sixty eight. 
+Doctor: Excellent! Have you weighed your self recently? 
+Patient: I weighed myself this morning. I am at one hundred and eighty three pounds. 
+Doctor:  And how tall are you? 
+Patient: I used to be five foot ten but I think I have been shrinking. 
+Doctor: That is definitely a possibility. We do shrink as we go through life. I can have the nurse get your height after we do your exam. 
+Patient: Okay."
+TR=EN-FR-EN 535,GENHX,"The patient is in complaining of headaches and dizzy spells, as well as a new little rash on the medial right calf.  She describes her dizziness as both vertigo and lightheadedness.  She does not have a headache at present but has some intermittent headaches, neck pains, and generalized myalgias.  She has noticed a few more bruises on her legs.  No fever or chills with slight cough.  She has had more chest pains but not at present.  She does have a little bit of nausea but no vomiting or diarrhea.  She complains of some left shoulder tenderness and discomfort.  She reports her blood sugar today after lunch was 155.","I also noticed a new rash on my right calf. Doctor: Can you describe what kind of dizziness you have? What are they feeling? Patient: It's general dizziness and dizziness. I'm also dizzy during episodes. Doctor: Are you feeling well now or are you feeling symptoms? Patient: I have headaches and randomity, but nothing now. Neck pain and muscle pain are also intermittent. Doctor: Let me look at the rash on your legs. Are the bruises new? Patient: They are new, I think. I noticed them more than usual. Doctor: In the last few days you had fever or chills? Patient: No, nothing like that. Doctor: What is chest pain? Patient: I had a little tightness in my chest, but not now."
+435,FAM/SOCHX,No tobacco or alcohol.,"Doctor: Do you smoke or drink alcohol?
+Patient: Nope."
+589,GENHX,"This is a 56-year-old female who has pain in her legs at nighttime and when she gets up it comes and goes, radiates from her buttocks to her legs, sometimes it is her ankle.  She has noticed it since she has been on Lipitor.  She has had some night sweats occasionally.  She has had a little bit of fever and nausea.  She has noticed her blood sugars have been low.  She has lost over 30 pounds after exercising doing water aerobics at Genesis in Wichita.  She has noticed her fasting blood sugars have been ranging from 100 to 120.  Blood sugars one and a half hours after meals have been 185.  She is coming in for a diabetic checkup in one month and wants lab prior to that time.  She has been eating more meat recently and has not been on a diet for cholesterol.","Doctor: How old are you? What brings you here today? 
+Patient: I am fifty six years old. I am here for this pain in my legs. It hurts mostly in the night. 
+Doctor: Does changing positions helps you? 
+Patient: Yeah, it helps. Whenever I stand it just goes away. 
+Doctor: Is it only in your legs or it starts there and goes somewhere else as well? 
+Patient: It normally starts in my hips and then it goes down my leg and sometimes into my ankles as well. 
+Doctor: When did you first notice it? 
+Patient: It all started after taking that medication. What is it called? Something with L? Yeah, Lipitor. 
+Doctor: Have you ever noticed any night sweats? 
+Patient: Sometimes I do sweat at night. 
+Doctor: Any other issue? Anything else going on? Your body temperature is a little on the higher end. 
+Patient: Yeah, I do feel feverish and have nausea as well. 
+Doctor: How are your sugar numbers? 
+Patient: They have been low for quite some time. You know, I have started going to Genesis in Wichita and I've been doing water aerobics. And you know what? Surprisingly, I have lost thirty pounds. 
+Doctor: That's good. How much is your fasting sugar? 
+Patient: Anywhere between a hundred to one hundred and twenty. I check them one and a half hours after meals as well. They are, they have been one hundred and eighty five regularly. 
+Doctor: Okay. 
+Patient: Yeah. I have a request to make. I will be coming for my diabetic checkup in one month. Can we do all the labs before that? 
+Doctor: Yeah, sure, that's a great idea. I should tell my assistant and they will call you for labs before your appointment for diabetes checkup. 
+Doctor: Anything else going on? How is everything else? 
+Patient: I tried to control my cholesterol with diet, but it didn't help. I cannot keep on dieting. It is just not my thing. I have started eating more meat though. I feel full after that."
+51,DISPOSITION,"Fair, but improved.","Doctor: How are feeling now after the treatment?
+Patient: I am feeling pretty fair, improving slowly.
+Doctor: Okay?
+Patient: Okay."
+376,GENHX,"The patient is a 78-year-old female who returns for recheck.  She has hypertension.  She denies difficulty with chest pain, palpations, orthopnea, nocturnal dyspnea, or edema.","Doctor: Hello, miss. Today we're going to do a recheck for your hypertension. Sound good?
+Patient: Yes, of course. 
+Doctor: I just want to check to see if you have any symptoms that can possibly raise alarm.
+Patient: I have been coming to you for the last fifteen of my seventy eight years on Earth. I know how a follow up works.  
+Doctor: You are a seasoned veteran. Alright. So how is your chest? Any pains or tightness?
+Patient: No, luckily I do not have that. 
+Doctor: Is your heart beating alright? Do you feel like it is beating too fast or hard?
+Patient: No. I can't really feel my heart beat normally, but I guess that is better than feeling it beat constantly. 
+Doctor: You are correct. You shouldn't notice it. How is sleeping?
+Patient: Sleeping has been fine. I sleep through the night. 
+Doctor: Great. Any shortness of breath that causes you to wake up?
+Patient: None. I don't have shortness of breath at any other time of the day. 
+Doctor: Are your legs doing well? Any swelling?
+Patient: No. No swelling."
+409,FAM/SOCHX,Retired insurance salesman and denies history of tobacco or illicit drug us. He has no h/o ETOH abuse and does not drink at present.,"Doctor: Do you or have you used tobacco products,sir? 
+Patient: No. I have never been a smoker. 
+Doctor: Do you have any history of alcohol or recreational drugs use? 
+Patient: I have never been a drug user, but I used to drink a little, but it was never a problem. I don't drink any more. 
+Doctor: What do you do for a living? 
+Patient: I am retired. I used to be an insurance salesman."
+267,PASTMEDICALHX,1. Gastroesophageal reflux disease. 2. Mitral valve prolapse. 3. Stage IIIC papillary serous adenocarcinoma of the ovaries.,"Doctor: Hello! How are you doing? 
+Patient: I am doing okay. 
+Doctor: Tell me about your past medical history.  
+Patient: I was diagnosed with stage three ovarian cancer two years ago. They found a tumor in my upper abdomen. I had surgery and they removed everything. Doctor King is my oncologist.
+Doctor: Are you still undergoing treatment? 
+Patient: Yes. 
+Doctor: Do you have any other medical conditions? 
+Patient: Have a heart murmur. It has not been an issue. I also have acid reflux.  
+Doctor: Do you take medication for the G E R D? 
+Patient: Yes. I take omeprazole."
+599,GENHX,"The patient is a 61-year-old Caucasian male with a history of uncontrolled diabetes mellitus.  The patient states that he was working in his garage over the past few days when he noticed some redness and edema in his right foot.  He notes some itching as well as increasing pain and redness in the right foot and presented to ABCD General Hospital Emergency Room.  He was evaluated by the Emergency Room staff as well as the medical team and the Department of Orthopedics.  It was noted upon x-ray a foreign body in his foot and he had significant amount of cellulitis as well ________ right lower extremity.  After a long discussion held with the patient, it was elected to proceed with irrigation debridement and removal of the foreign body.","Doctor: Good morning, sir. You're sixty one years old, correct? 
+Patient: Good morning, doctor. Yes, that's correct. 
+Doctor: Great, and you identify as Caucasian, right? 
+Patient: Yes, that's correct as well. 
+Doctor: Thank you, do you have any medical conditions that I should know about? 
+Patient: Yes, I have diabetes. 
+Doctor: How are you handling your diabetes?
+Patient: Well, I've had diabetes for a long time but had never been treated for it.
+Doctor: Okay, thank you for telling me. What seems to be the problem today? 
+Patient: I've been working in my garage over the past few days, and I have this redness and swelling in my right foot. 
+Doctor: Do you have any itchiness or pain?
+Patient: Yes, and it's getting worse. 
+Doctor: Have you seen any other doctors about this? 
+Patient: Um, yes. I went to the A B C D General Hospital E R and they gave me an evaluation there. 
+Doctor: Do you have any images from this visit? 
+Patient: Um, yes. I have them right here. 
+Doctor: Okay, these show a foreign body in the foot. 
+Patient: But what about all the stuff on the outside of my foot?
+Doctor: Well, that's consistent with cellulitis. 
+Patient: What's that?
+Doctor: It's a skin infection we clean it up in surgery.
+Patient: What kind of procedure can we do? 
+Doctor: We should do an irrigation debridement for the cellulitis, and remove the foreign body. I think that will really help. 
+Patient: Yes, I agree, doctor."
+314,PASTMEDICALHX,"Little over a year ago, the patient was found to have lumbar discitis and was treated with antibiotics and ended up having debridement and instrumentation with Dr. XYZ and is doing really quite well.  She had a pulmonary embolus with that hospitalization.","Guest_clinician: When did she have lumbar discitis? 
+Doctor: A little over a year ago. She received antibiotic therapy and ended up having debridement and instrumentation with Doctor XYZ.  
+Guest_clinician: How's she doing today? 
+Doctor: Really quite well. 
+Guest_clinician: She also had a P E with that prior hospitalization, correct? 
+Doctor: Yes."
+218,FAM/SOCHX,Otherwise noncontributory.,"Doctor: Are you aware of any medical issues in your family? 
+Patient: No. 
+Doctor: How about any known heart disorder or diabetes in the family.
+Patient: No, I'm not aware of anything like that."
+713,GENHX,"The patient was an 8 pounds 13 ounces' term baby born 1 week early via a planned repeat C-section.  Mom denies any infections during pregnancy, except for thumb and toenail infections, treated with rubbing alcohol (mom denies any history of boils in the family).  GBS status was negative.  Mom smoked up to the last 5 months of the pregnancy.  Mom and dad both deny any sexually transmitted diseases or genital herpetic lesions.  Mom and baby were both discharged out of the hospital last 48 hours.  This patient has received no hospitalizations so far.","Guest_family: Hi, how are you?
+Doctor: I am well, how's the baby? I see that he is eight pounds and thirteen ounces, and he was born via…?
+Guest_family: Yes, C section. Yeah, he is he has never been hospitalized. He was born a week early.
+Doctor: Okay, I would like to ask you some questions about the pregnancy and other history. 
+Guest_family: Yes, sure go ahead.
+Doctor: Great, have you had any infections during pregnancy like G B S or S T D infections?
+Guest_family: No, I haven't, I only had thumb and toenail infections and we treated that with rubbing alcohol. We have a history of boils in the family, so I am not afraid of minor infections like this. 
+Doctor: Did you smoke during pregnancy? 
+Guest_family: Yes, I did, but stopped after five months.
+Doctor: Sir, have you had any S T D while she was pregnant?
+Guest_family_2: No, I was not diagnosed with anything unusual.
+Doctor: Great, so looks like you were discharged in forty eight hours and no more hospital stays for you.
+Guest_family: That is correct."
+TR=EN-ES-EN 1131,CC,Thrombocytopenia.,"Doctor: You have a rare case of thrombocytopenia. I would like you to come to a consultation. Guest_clinician: Any other medical records? Doctor: No, just thrombocytopenia."
+541,GENHX,"This is a 42-year-old white female who comes in today for a complete physical and follow up on asthma.  She says her asthma has been worse over the last three months.  She has been using her inhaler daily.  Her allergies seem to be a little bit worse as well.  Her husband has been hauling corn and this seems to aggravate things.  She has not been taking Allegra daily but when she does take it, it seems to help somewhat.  She has not been taking her Flonase which has helped her in the past.  She also notes that in the past she was on Advair but she got some vaginal irritation with that. She had been noticing increasing symptoms of irritability and PMS around her menstrual cycle.  She has been more impatient around that time.  Says otherwise her mood is normal during the rest of the month.  It usually is worse the week before her cycle and improves the day her menstrual cycle starts.  Menses have been regular but somewhat shorter than in the past.  Occasionally she will get some spotting after her cycles.  She denies any hot flashes or night sweats with this.  In reviewing the chart it is noted that she did have 3+ blood with what appeared to be a urinary tract infection previously.  Her urine has not been rechecked.  She recently had lab work and cholesterol drawn for a life insurance application and is going to send me those results when available.","Doctor: How're you today? 
+Patient: Not too bad. I'm hanging in there. My asthma has been acting up. 
+Doctor: Oh no. How long has this been going on? 
+Patient: For the past three months. I've been using my inhaler every day. I used to use it every now and again. This is definitely new for me. 
+Doctor: Are you experiencing any allergies alongside your asthma? 
+Patient: Yes, actually. My husband has been hauling a lot more corn this season and it seems to be making my allergies much worse. 
+Doctor: Do you take anything for your allergies? 
+Patient: Not really. I'll sometimes take Allegra and that seems to help just a tiny bit. I was previously prescribed Flonase, but I can't remember the last time I took it. Oh and I was on Advair, too. 
+Doctor: Did the Flonase or Advair help at all? 
+Patient: I had to stop Advair because it started to bother my lady parts. 
+Doctor: How so? 
+Patient: I noticed that it became more itchy as a result. 
+Doctor: I'm sorry to hear that.  
+Patient: Speaking of this, I wanted to also share that I've been experiencing a lot of P M S symptoms lately. I'm super impatient and moody.  
+Doctor: Do you notice these symptoms are still there after you finish your cycle? 
+Patient: Um lemme think. The symptoms start about a week before my period and tend to get less intense once I get over the first day of bleeding. 
+Doctor: Are your cycles generally regular? 
+Patient: For the most part, yes. I feel like they don't last as long as they used to. I'm not sure why. I do, however, notice some spotting after my cycles end. 
+Doctor: Do you get any night sweats or hot flashes while you're on your period? 
+Patient: No.
+Doctor: Have you had any other medical troubles recently? 
+Patient: I did have a U T I and some blood in my urine because of it. 
+Doctor: Do you remember how many times you noticed blood in your urine? 
+Patient: Hm about three times. I was prescribed antibiotics for it. 
+Doctor: Have you had any other urinary symptoms since? How about bdominal pain, nausea, vomiting, or anything of the like? 
+Patient: Nothing now.  
+Doctor: Have you gotten your urine rechecked recently? 
+Patient: No, not yet. I really should get it checked out again. 
+Doctor: I can write an order for you if you'd like or you can make an appointment with your urologist. Do you have a specific urologist that you see? 
+Patient: Yeah, I can call to make the appointment tomorrow. Do I also need to get blood work done?
+Doctor: Yes, in fact I'd like to order some blood work while you're here. 
+Patient: I had blood work done a few days ago for my life insurance application. I am forty two so thought I should get that going. My Swedish mother always used to nag about how I procrastinate on important things. Anyways, do I still need to get more blood work done? 
+Doctor: Do you know what they checked? 
+Patient: I think the typical blood work with cholesterol added.  
+Doctor: Do you happen to have a copy on hand or could you fax me the resulxts? 
+Patient: I can fax them to you once I get them back. 
+Doctor: That would be great. Thank you. Let me write down our fax number for you."
+TR=EN-FR-EN 857,IMMUNIZATIONS,Up-to-date.,"Doctor: And when did you get your last tetanus shot? Patient: Um, I don't remember correctly, but it should be in my reports. I had one back, just don't remember when exactly. Doctor: Ah, no problem. I see it here in your reports and it's up to date. So it's good. Patient: Cool."
+294,GENHX,"A 14-day-old was seen by private doctor because of blister.  On Friday, she was noted to have a small blister near her umbilicus.  They went to their doctor on Saturday, culture was drawn.  It came back today, growing MRSA.  She has been doing well.  They put her on bacitracin ointment near the umbilicus.  That has about healed up.  However today, they noticed a small blister on her left temporal area.  They called the private doctor.  They direct called the Infectious Disease doctor here and was asked that they come into the hospital.  Mom states she has been diagnosed with MRSA on her buttocks as well and is on some medications.  The child has not had any fever.  She has not been lethargic or irritable.  She has been eating well up to 2 ounces every feed.  Eating well and sleeping well.  No other changes have been noted.","Doctor: Okay, tell me what's going on and what's brought you here. 
+Guest_family: I am her mother. She has this blister on the side of her head right above her ear, here. I was just worried and concerned about my baby. 
+Doctor: How old is the baby? When did you first notice it?
+Guest_family: She is just fourteen days old. Let me tell you from the beginning. On Friday, when I was taking her for a bath, I noticed a blister near her umbilicus area. We went to our doctor on Saturday, and they did a test. 
+Doctor: Did you get the test result?
+Guest_family: I got it today. Here is the report. 
+Doctor: Okay, let me have a look. It says she is having a growing M R S A.
+Guest_family: Yeah, I've been diagnosed with that too. And I am on medications. I had it on my buttock area. 
+Doctor: Okay, so you know about it, and I don't have to explain it more.
+Guest_family: Yeah. 
+Doctor: So how is the blister on the umbilicus now?
+Guest_family: She has been doing good. We put on some bacitracin ointment, and it almost healed up. But today I noticed that another small blister on her head. It really scared me, and I did not want to take any chance. That's why I reached out to the Infectious Disease center. I know it is private. But still, I don't want to take any chance with my baby's health. I called the center directly and they asked me to come to the hospital. 
+Doctor: You did good. I will start the treatment. How are her eating and sleeping habits?
+Guest_family: She hasn't missed any of her meals. She is taking around two ounces of milk in every feed. I don't think I have any issues with her eating or sleeping. 
+Doctor: Did she have any fever?
+Guest_family: Not that I noticed. 
+Doctor: Has she been lethargic or crying more than normal?
+Guest_family: No. 
+Doctor: Any other changes in her daily routine that you might have noticed?
+Guest_family: No, I didn't notice any changes."
+598,PASTSURGICAL,Circumcision.,"Doctor: He had circumcision?
+Patient: Yes.
+Doctor: Do you remember the date?
+Patient: No I do not. But it should be in the chart."
+196,FAM/SOCHX,"The patient is widow.  She is a nonsmoker, nondrinker.  She lives at Kansas Christian Home independently, but actually does get a lot of help with medications, having a driver to bring her here, and going to the noon meal.","Doctor: Is your husband still around, ma'am?
+Patient: No, he passed away a few years ago. 
+Doctor: I'm so sorry to hear that. 
+Patient: Oh, it's quite all right. 
+Doctor: Do you drink or smoke?
+Patient: No, I don't do either of those. 
+Doctor: Good, so where are you living now?
+Patient: I'm living at Kansas Christian Home. 
+Doctor: Do you live independently there? 
+Patient: Yes, thankfully. But, I can't do a lot of things. I have to be sure to take my medicines. 
+Doctor: Did you drive yourself today?
+Patient: No, I had a driver today. Can we speed this up, I need to get to the noon meal."
+429,DIAGNOSIS,"Upper respiratory illness with apnea, possible pertussis.","Doctor: How's he feeling today? 
+Guest_family: I think this is the worst he's been feeling all week. 
+Doctor: I'm sorry to hear that he hasn't been feeling well. What symptoms has he been having? 
+Guest_family: He's been very congested as of late and seems to be coughing a lot more than usual. He was also running a fever yesterday.  
+Doctor: I see. What was his temperature? 
+Guest_family: The thermometer was reading one hundred and one degrees Fahrenheit. Does he need to go to the hospital? 
+Doctor: Let me evaluate and see what we can do for him today. 
+Guest_family: Thank you, doctor. 
+Doctor: I suspect that he has an upper respiratory infection, possible pertussis. Is he still experiencing apnea?"
+78,CC,Right-sided facial droop and right-sided weakness.,"Doctor: Tell me, what's going on? 
+Guest_family: She is complaining of weakness on the right side of her face.
+Patient: And I feel the right side is drooping.
+Doctor: Okay, let me look at it."
+23,ALLERGY,Penicillin.,"Doctor: Are you allergic to anything?
+Patient: Yes, I am allergic to Penicillin.
+Doctor: Any other drugs that you could be allergic to?
+Patient: Nope that is all.
+Doctor: Okay."
+1188,DIAGNOSIS,Sick sinus syndrome.  The rest of her past medical history remained the same.,"Doctor: How did your last visit go with the cardiologist? 
+Patient: Good.  
+Doctor: It looks like they diagnosed you with sick sinus syndrome. Do you have any questions about this new diagnosis? 
+Patient: No, she explained everything to me. I'm planning to follow-up with her in the next two weeks. 
+Doctor: Great. So it looks like your past medical history is the same? Nothing new other than the sick sinus syndrome."
+879,ALLERGY,He has no allergies.,"Doctor: Have you had any adverse reactions to medications you've taken in the past? 
+Patient: No, thankfully."
+453,ROS,Significant for pain in the buttock.  Otherwise negative.,"Doctor: Anything else that is going on?
+Patient: Just some pain in the buttock.
+Doctor: Okay.
+Patient: I do not have anything else.
+Doctor: Okay no fever, nausea, anything of that sort?
+Patient: Nope."
+481,ALLERGY,No known drug allergies.,"Doctor: Do you have any known allergies?
+Patient: Not that I know.
+Doctor: Any allergies to any drug? 
+Patient: Nope."
+728,GENHX,"CORONARY RISK FACTORS: No history of hypertension or diabetes mellitus.  Active smoker.  Cholesterol status, borderline elevated.  No history of established coronary artery disease.  Family history positive.","Doctor: Since you have a family history of coronary heart disease, let me check you for its risk factors.
+Patient: Yeah, my father had it.
+Doctor: Any history of high blood pressure or diabetes? 
+Patient: No.
+Doctor: How about smoking, do you smoke? 
+Patient: No, I don't smoke.
+Doctor: And in the past, did any other Doctor mention that you might have sign or symptom indicating that you may have coronary artery disease?
+Patient: No.
+Doctor: Okay."
+TR=EN-ES-EN 836,PASTMEDICALHX,"Significant for hypertension and morbid obesity, now resolved.","Patient: In the past I was very fat! Actually, I was morbidly obese. I also had high blood pressure, but after my surgery it resolved. Doctor: So, is everything okay now? Patient: Yes."
+997,FAM/SOCHX,"Married, 3 children who are healthy. She denied any Tobacco/ETOH/Illicit drug use.","Doctor: Do you smoke cigarettes or use any tobacco products, miss? 
+Patient: No. 
+Doctor: Do you drink alcohol and if so, how many drinks do you consume in a typical week? 
+Patient: I don't drink. 
+Doctor: Do you use any recreational drug or other substances?
+Patient: No. 
+Doctor: Do you have children? 
+Patient: Yes. I have three kids. 
+Doctor: Do your children have any health conditions? 
+Patient: No. 
+Doctor: Are you married? 
+Patient: Yes."
+1057,PASTSURGICAL,No major surgery except for prior cardiac catheterization.,"Doctor: Any major surgeries in the past?
+Patient: Not too many, but a catheter was put in my heart.
+Doctor: Oh, so cardiac catherization, correct?
+Patient: Yep."
+58,PASTSURGICAL,None Past Psychological History: None,"Doctor: Do you have a history of mental illness or psychological disease? 
+Patient: No."
+1192,FAM/SOCHX,The patient works at a local Christmas tree farm.  He smokes cigarettes approximately one pack per day.,"Doctor: Hey, do you smoke cigarettes?
+Patient: Yes I do smoke. Do you?
+Doctor: Nope. Are you planning on quitting?
+Patient: No, I just smoke one pack per day, it's not bad.
+Doctor: Oh my God. No. It is bad. You should think about quitting.
+Patient: Okay I will think about it.
+Doctor: Where do you work?
+Patient: I work at local christmas tree farm."
+70,FAM/SOCHX,"The patient lives in a private home with children and her father.  The patient states that she does have stairs to negotiate without the use of a railing.  She states that she is able to manage the stairs, however, is very slow with her movement.  The patient smokes 1-1/2 packs of cigarettes a day and does not have a history of regular exercise routine.","Doctor: Good morning, ma'am. 
+Patient: Oh, good morning, doctor. 
+Doctor: Please, tell me about your living situation. 
+Patient: Well, right now, I live at home with my kids and my dad. 
+Doctor: I see here that you're not able to go up the stairs well, can you tell me more about that?
+Patient: Yeah, I can't use the stairs without holding the rail the entire time. 
+Doctor: Holding the rail makes navigating the stairs easier? 
+Patient: Yeah, but I still move very slow. 
+Doctor: I see. Do you smoke?
+Patient: Yeah, I smoke about a pack to a pack and a half a day. 
+Doctor: What about exercise? Do you workout? 
+Patient: No, I don't regularly workout, I've never been good at it."
+873,GENHX,"ABC is in today for a followup of her atrial fibrillation.  They have misplaced the Cardizem.  She is not on this and her heart rate is up just a little bit today.  She does complain of feeling dizziness, some vertigo, some lightheadedness, and has attributed this to the Coumadin therapy.  She is very adamant that she wants to stop the Coumadin.  She is tired of blood draws.  We have had a difficult time getting her regulated.  No chest pains.  No shortness of breath.  She is moving around a little bit better.  Her arm does not hurt her.  Her back pain is improving as well.","Doctor: Hi, how can I help you?
+Patient:  I am here for a follow up on my heart rhythm problem. I think it is atrial fibrillation.
+Doctor: Oh yes. You are not on Cardizem and your heart rate is up just a little bit today. 
+Patient: That's right. I misplaced it.
+Doctor: Okay. Let me see. What symptoms are you experiencing right now?
+Patient: I am feeling very dizzy. I do have some vertigo and lightheadedness. 
+Doctor: You are on blood thinners, right? That is Coumadin therapy? Or am I wrong here?
+Patient: No, you are right but please stop the Coumadin. I am tired of these regular blood draws.
+Doctor: See, I understand it is hard to control it. It is difficult to regulate that.
+Patient: Yes exactly. That is why I don't want it. Give me something simple.
+Doctor: Okay I will investigate it. Are you experiencing any chest pain or shortness of breath?
+Patient: Oh no, I am not feeling that.
+Doctor: Okay great!
+Patient: Actually, I am moving around a little bit better now and my arm does not hurt.
+Doctor: How about your back pain?
+Patient: Um, it is improving as well. 
+Doctor: Okay, cool.
+Patient: Yeah."
+277,MEDICATIONS,Albuterol.,"Doctor: What do you use to treat your asthma? 
+Patient: I use my Albuterol inhaler."
+849,PASTSURGICAL,"Significant for history of lumpectomy on the left breast, breast augmentation surgery, cholecystectomy, cardiac ablation x3, left knee surgery as well as removal of half the pancreas.","Doctor: You had a surgery on your breasts?
+Patient: Yes, they removed lump from my left breast.
+Doctor: Okay, and what other surgeries have you had?
+Patient: I do not have a gall bladder, then I had a breast augmentation, I have had heart surgeries three times and they have removed half of my pancreas. 
+Doctor: Okay.
+Patient: And knee surgery too, on the left side.
+Doctor: Okay. What type of heart surgery did you have?
+Patient: Cardiac ablation."
+768,PASTMEDICALHX,Childhood Illnesses: (+) strep throat (+) mumps (+) chickenpox,"Doctor: Good morning, ma'am. 
+Patient: Good morning, doctor.
+Doctor: Before we begin, I just have a few questions. Do you remember what illnesses you had as a child?
+Patient: Yes, I got a few. I had strep throat, mumps, and, um, chickenpox growing up."
+44,GENHX,"The patient was initially evaluated at UIHC at 7 years of age. He had been well until 7 months prior to evaluation when he started having spells which were described as ""dizzy spells"" lasting from several seconds to one minute in duration. They occurred quite infrequently and he was able to resume activity immediately following the episodes. The spell became more frequent and prolonged, and by the time of initial evaluation were occurring 2-3 times per day and lasting 2-3 minutes in duration. In addition, in the 3 months prior to evaluation, the right upper extremity would become tonic and flexed during the episodes, and he began to experience post ictal fatigue.","Doctor: How old was he when he were first evaluated in the other hospital?
+Guest_family: He was seven.
+Doctor: Which hospital was that again?
+Guest_family: It was at U I H C.
+Doctor: So what exactly happened? 
+Guest_family: He was doing all good like seven months before his evaluation, then he started having some dizzy spells, which like stayed for several seconds to a minute. They were not regular, but he was able to continue his activity immediately after these dizzy spells. 
+Doctor: Did the intensity change? 
+Guest_family: Oh yes. This, these spells, they became more frequent, and they were now for longer periods. By the time we came for the first evaluation, they were like two to three times per day. 
+Doctor: How long were they in the duration? 
+Guest_family: They lasted for like two to three minutes. 
+Doctor: Was there any other associated disorder or anything? 
+Guest_family: Yeah, around three months before his evaluation his hands, they started becoming stressed, like stiffer and felt tighter during these spells. He also felt very weak and tired after these episodes."
+572,FAM/SOCHX,The patient lives here locally.  She does not report any significant alcohol or illicit drug use.  She works full time.,"Doctor: Do you live close to the office, or did you have to drive a long way here? 
+Patient: I live right around here, I'm a local girl. 
+Doctor: Good, are you working right now?
+Patient: Yes, doctor, I work full time. 
+Doctor: That's good, sometimes it's nice to stay busy. Is there any history of drug or alcohol abuse I should know about? 
+Patient: No, absolutely not, doctor."
+1176,FAM/SOCHX,Married. One son deceased. Salesperson. Denied tobacco/ETOH/illicit drug use.,"Doctor: Hi are you married? 
+Patient: Yes, I am. 
+Doctor: Do you have kids? 
+Patient: Yes, I had a son, but unfortunately, he died in a car accident. It was five years ago. 
+Doctor: Where do you work? 
+Patient: I work in a pharmaceutical company as a salesperson. 
+Doctor: Do you smoke or drink or at any time tried any illicit drug? 
+Patient: No, I've never smoked. I have tried a beer once, but I never liked it. 
+Doctor: What about drugs? 
+Patient: No, never did that."
+789,CC,Probable Coumadin hypersensitivity.,"Doctor: What brings you back into the clinic today?
+Patient: I have been having some severe bruising. I have been taking Coumadin for three months now. Am I taking to much Coumadin? 
+Doctor: You are taking a normal start dose. Some people do not metabolize the medication as well as others. I would like to get you tested for hypersensitivity. After we get the test results back, we will be able to adjust your dosage accordingly.  
+Patient: Okay."
+872,FAM/SOCHX,"He is a nonsmoker.  He has been drinking alcohol today, but has no history of alcohol or drug abuse.","Doctor: So, do you smoke?
+Patient: No. 
+Doctor: How about alcohol? 
+Patient: I drink, but just normal. I don't have any alcohol problem.
+Doctor: Okay. So, no history of any drug or alcohol abuse, right?
+Patient: No, not at all.
+Doctor: Okay."
+1183,DISPOSITION,"Clinically improved, however, requiring acute care.","Guest_clinician: How is the patient's condition now? 
+Doctor: Well, he has improved clinically but would require acute care.
+Guest_clinician: Oh, I see."
+308,CC,Abdominal pain.,"Doctor: What brings you here today?
+Patient: I have pain in my tummy.
+Doctor: When did you first notice it?
+Patient: It started suddenly around noon."
+785,GENHX,"This 73 y/o RHF presented on 1/12/95, with progressive memory and cognitive decline since 11/94. Her difficulties were first noted by family the week prior to Thanksgiving, when they were taking her to Vail, Colorado to play ""Murder She Wrote"" at family gathering. Unbeknownst to the patient was the fact that she had been chosen to be the ""assassin."" Prior to boarding the airplane her children hid a toy gun in her carry-on luggage. As the patient walked through security the alarm went off and within seconds she was surrounded, searched and interrogated. She and her family eventually made their flight, but she seemed unusually flustered and disoriented by the event. In prior times they would have expected her to have brushed off the incident with a ""chuckle."" While in Colorado her mentation seemed slow and she had difficulty reading the lines to her part while playing ""Murder She Wrote."" She needed assistance to complete the game. The family noted no slurring of speech, difficulty with vision, or focal weakness at the time. She returned to work at a local florist shop the Monday following Thanksgiving, and by her own report, had difficulty carrying out her usual tasks of flower arranging and operating the cash register. She quit working the next day and never went back. Her mental status appeared to remain relatively stable throughout the month of November and December and during that time she was evaluated by a local neurologist. Serum VDRL, TFTs, GS, B12, Folate, CBC, CXR, and MRI of the Brain were all reportedly unremarkable. The working diagnosis was ""Dementia of the Alzheimer's Type."" One to two weeks prior to her 1/12/95 presentation, she became repeatedly lost in her own home. In addition, she, and especially her family, noticed increased difficulty with word finding, attention, and calculation. Furthermore, she began expressing emotional lability unusual for her. She also tended to veer toward the right when walking and often did not recognize the location of people talking to her.","Doctor: How old are you? 
+Patient: I am seventy three.  
+Doctor: Are you right handed or left handed? 
+Patient: Right. 
+Doctor: So, I see the chief complaint is memory loss and cognitive decline. Tell me what exactly happened, and how did you notice the symptoms? Let me document that today is January twelfth of nineteen ninety five.
+Guest_family: We noticed it the week prior to Thanksgiving last year in nineteen ninety four. We have a family tradition where we play a game and this time, we were taking her to Vail, Colorado to play ""Murder She Wrote"" at one of our family gatherings. She was chosen to be the assassin. 
+Doctor: Okay. 
+Guest_family: Kids played a trick with her and they hid a plastic gun, a toy gun in her luggage. As she walked through the security, the alarm went off and like within seconds she was all surrounded, and everyone was like panicked. There was so much panic, they searched her and interrogated her and what not. Eventually she and her family made it to the flight, and she seemed unusually frustrated and disoriented by all that. Previously, if any such incident would have happened in the past, she would just have like chuckled and brushed it off. And we all would have sat together and laughed about it. This time it was different. 
+Doctor: I can see why she was frustrated. Anyone can be in such situations. 
+Guest_family: When we were in Colorado, she seemed slow. She had difficulty reading her lines to her part when we were playing that game. She needed assistance to complete the whole game. 
+Doctor: Was she slurring?
+Guest_family: Nope. 
+Doctor: Was there any difficulty with vision? Or any weakness? 
+Guest_family: Nope. Nothing that we noticed. 
+Doctor: How was it after returning from there? 
+Guest_family: She returned to work. She used to work in a local florist shop. She returned on the Monday following Thanksgiving. And she had difficulty.
+Patient:  I was not able to take on with my usual task of flower arrangements or dealing with the cash at the cash register. 
+Guest_family: She quit the next day, and she never went back. 
+Doctor: How was it after that? 
+Guest_family: She seemed to be doing fine and stable throughout November and December, and we were visiting a local neurologist as well, who was evaluating her. He did a few blood tests and did uh, M R I of the brain. He gave us all clear. He said there's nothing there. 
+Doctor: Yeah, I see the working diagnosis of dementia of the Alzheimer's Type. When did these symptoms increase? Like when did you started noticing them more? 
+Guest_family: One or two weeks ago, so end of December nineteen ninety four, she got lost in her own home. She was getting more sensitive and started saying that she is becoming a liability for everyone, which is not at all like her. Her walking was affected. She started walking like a bended form and also started veering to the right. She also did not recognize the location of where people were talking to her."
+43,PLAN,As tolerated.,"Doctor: How did the patient do on the activity test?
+Guest_clinician: Patient was good. I have advised him to continue with his normal activities as long as he is feeling fine."
+976,GENHX,"The patient is a 31-year-old female who was referred to Physical Therapy secondary to a fall on 10/03/08.  The patient states that she tripped over her dog toy and fell with her left foot inverted.  The patient states that she received a series of x-rays and MRIs that were unremarkable.  After approximately 1 month, the patient continued to have significant debilitating pain in her left ankle.  She then received a walking boot and has been in the boot for the past month.","Doctor: What's a young thirty one year old like you doing in my office today, ma'am?
+Patient: Well, I got referred to P T after I had a fall. 
+Doctor: When was your fall?
+Patient: Um, it was on October third two thousand eight. 
+Doctor: What happened when you fell?
+Patient: I tripped over my dog's toy. 
+Doctor: Did you twist your foot or ankle? 
+Patient: Yeah, my left foot inverted. 
+Doctor: Have you had any imaging done on this foot?
+Patient: Yeah, um, I've had x rays and an M R I already. 
+Doctor: What were the impressions of those images?
+Patient: They told me that it was unremarkable. 
+Doctor: How was the pain progressed since the onset? 
+Patient: Well, after a month or so, the pain is still so bad I can't do any of my activities. 
+Doctor: How long have you been wearing this walking boot?
+Patient: Um, it's been about a month now."
+394,FAM/SOCHX,"Positive for mother passing away at the age of 38 from heart problems and alcoholism, dad passed away at the age of 75 from leukemia.  One of her uncles was diagnosed with leukemia.","Doctor: What's your family history? 
+Patient: Both my parents are deceased. 
+Doctor: I'm so sorry to hear that. I offer you my sincerest condolences. 
+Patient: Thank you. My dad passed away at seventy five from leukemia and my mom fell victim to heart problems and alcoholism at thirty eight. 
+Doctor: Does anyone else in your family suffer from leukemia, cardiac problems, or alcohol abuse? 
+Patient: One of my uncles on my dad's side was recently diagnosed with leukemia.  
+Doctor: Oh, wow. I see."
+109,MEDICATIONS,None.,"Doctor: Are you on any medications?
+Patient: No, not taking any medications."
+101,FAM/SOCHX,Grandmother died of cerebral aneurysm.,"Doctor: Does anyone else in your family have aneurysm problem?
+Patient: Well, my grandmother had it. She actually passed away due to brain aneurysm. 
+Doctor: Oh, okay."
+TR=EN-ES-EN 477,GENHX,"This 51y/o RHF fell four times on 1/3/93, because her ""legs suddenly gave out."" She subsequently noticed weakness involving the right leg, and often required the assistance of her arms to move it. During some of these episodes she appeared mildly pale and felt generally weak; her husband would give her 3 teaspoons of sugar and she would appear to improve, thought not completely. During one episode she held her RUE in an ""odd fisted posture."" She denied any other focal weakness, sensory change, dysarthria, diplopia, dysphagia or alteration of consciousness. She did not seek medical attention despite her weakness. Then, last night, 1/4/93, she fell again ,and because her weakness did not subsequently improve she came to UIHC for evaluation on 1/5/93.","Doctor: How old are you? Patient: Don't you ask her the age of a lady. She will never tell you the truth. Doctor: Do I know I'm in the wrong profession. I have to do it every time I meet someone. So, how old are you? Patient: is that true. I'm only kidding you. I'm fifty one. Doctor: Have you given me my right hand or my left hand? Patient: I have my right hand. Doctor: So, you said that your legs suddenly came up. What exactly happened? Was it sudden? Or have you just noticed some weakness before too? Patient: Oh, I have noticed weakness in my right leg as well and sometimes, I have to give the support of my arm to really move it. Sometimes during these episodes I've become pale and it's like a weakness in general: I've seen something in your body."
+993,GENHX,"XYZ is in today not feeling well for the last three days.  She is a bit sick with bodyaches.  She is coughing.  She has a sore throat, especially when she coughs.  Her cough is productive of green colored sputum.  She has had some chills.  No vomiting.  No diarrhea.  She is sleeping okay.  She does not feel like she needs anything for the cough.  She did call in yesterday, and got a refill of her Keflex.  She took two Keflex this morning and she is feeling a little bit better now.  She is tearful, just tired of feeling ran down.","Doctor: How are you feeling? You have been sick?
+Patient: Yes, I am not feeling well for the last three days.  I have bad body aches, cough and a sore throat.  
+Doctor: Do you get wet cough or it's dry? What color sputum comes out?
+Patient: It is wet and green colored stuff comes out.
+Doctor: Okay we will need to send it out to culture, maybe an infection.
+Doctor: How about fever, chills, nausea, vomiting, diarrhea anything like that? Are you sleeping well?
+Patient: Everything is fine except some chills? I am sleeping okay.
+Doctor: Do you need anything for cough?
+Patient: I don't need anything for the cough. I did call yesterday and got a refill of my Keflex. Then I took two Keflex this morning and I am feeling little bit better now. 
+Doctor: Okay then why are you crying, ma'am?
+Patient: I am just tired of feeling like ran down.
+Doctor: I am so sorry.
+Patient: Hm."
+514,GENHX,"This is a 49-year-old white male who sustained a traumatic injury to his left posterior thighthis past year while in ABCD.  He sustained an injury from the patellar from a boat while in the water.  He was air lifted actually up to XYZ Hospital and underwent extensive surgery.  He still has an external fixation on it for the healing fractures in the leg and has undergone grafting and full thickness skin grafting closure to a large defect in his left posterior thigh, which is nearly healed right in the gluteal fold on that left area.  In several areas right along the graft site and low in the leg, the patient has several areas of hypergranulation tissue.  He has some drainage from these areas.  There are no signs and symptoms of infection.  He is referred to us to help him get those areas under control.","Doctor: Hello, sir. Before we begin your visit, could you verify your age and ethnicity for me, please?
+Patient: I'm forty nine years old, and I identify as white.  
+Doctor: Thank you. What brought you in today?
+Patient: I was referred to you so that I could get whatever's wrong with me under control. 
+Doctor: I see. What seems to be happening? 
+Patient: I hurt the back of my leg pretty bad this past year when I was in A B C D. 
+Doctor: What part of your leg? 
+Patient: The back of my left thigh. 
+Doctor: I see. So just the leg? 
+Patient: I also hurt my kneecap from a boat when I was out in the water fishing. 
+Doctor: Was that severe? 
+Patient: It was a whole show. A helicopter came down and swooped me to X Y Z Hospital, where I got surgery. 
+Doctor: I can see you still have an external fixation on your knee so that the fracture heals. Did the hospital give you a report on the surgery? 
+Patient: Yeah, they did. Here you go. 
+Doctor: Thank you. Let me take a look. So, it looks like you underwent grafting and full thickness skin grafting for closure for a large defect in your left posterior thigh. That seems to be healed in the gluteal fold on the left area. 
+Patient: Yeah. Whatever that means. 
+Doctor: Let me examine the area. 
+Patient: Go for it. 
+Doctor: I can see several areas that have hypergranulation tissues around the graft site and low in the leg.
+Patient: Is that bad? 
+Doctor: I don't think so. Are you feeling any symptoms of a fever or anything? 
+Patient: No, I'm not. 
+Doctor: That's good. You don't have any infections then."
+990,GENHX,"This is a 1-year-old male who comes in with a cough and congestion for the past two to three weeks.  Started off as a congestion but then he started coughing about a week ago.  Cough has gotten worsen.  Mother was also worried.  He had Pop Can just three days ago and she never found the top of that and was wondering if he had swallowed that, but his breathing has not gotten worse since that happened.  He is not running any fevers.","Guest_family: He is coughing for one week now.
+Doctor: How about any congestion? Is it one week or more?
+Guest_family: No did I say that? I meant two to three weeks. I am so worried. He is just one year.  
+Doctor: Don't worry let me see, can you tell me everything from the beginning?
+Guest_family: Sure. It started off as a congestion, but then he started coughing about a week ago and it is getting worse.
+Doctor: Okay, what else?
+Guest_family: Actually, he had Pop Can just three days ago and I never found the top of that and was wondering if he had swallowed that.
+Doctor: It is possible, have you seen any change in his breathing?
+Guest_family: His breathing has not gotten worse since that happened.
+Doctor: Any fever?
+Guest_family: No. No fever.
+Doctor: Okay."
+594,PASTSURGICAL,"In 1979, tubal ligation and three milk ducts removed.  In 1989 she had a breast biopsy and in 2007 a colonoscopy.  She is G4, P3, with no cesarean section.","Doctor: Have you ever had surgery, ma'am?
+Patient: Yeah, I've had a few. First, I had, um, tubal ligation, and three milk ducts removed.
+Doctor: What year was that in?
+Patient: That was in, um, nineteen seventy nine. 
+Doctor: Great, thank you. What else have you had done? 
+Patient: I had a breast biopsy in nineteen eighty nine, and a colonoscopy in two thousand seven. 
+Doctor: Thank you, do you have any children? 
+Patient: Well, doctor, I've been pregnant four times, but I've had three children. 
+Doctor: I'm so sorry to hear that. Did you have a C section with any of them? 
+Patient: No, doctor. I had a natural birth for all of them."
+353,GENHX,"The patient is an 85-year-old female who presents with a chief complaint as described above. The patient is a very poor historian and is extremely hard of hearing, and therefore, very little history is available. She was found by EMS sitting on the toilet having diarrhea, and apparently had also just vomited. Upon my questioning of the patient, she can confirm that she has been sick to her stomach and has vomited. She cannot tell me how many times. She is also unable to describe the vomitus. She also tells me that her belly has been hurting. I am unable to get any further history from the patient because, again, she is an extremely poor historian and very hard of hearing.","Doctor: It looks like E M S found you in bad shape? 
+Patient: What? 
+Guest_family: My mother is hard of hearing. She is eighty five. They found her on the toilet.  
+Doctor: Did your mother tell you anything about her condition before E M S arrived? 
+Guest_family: She said she threw up right before they came and she had diarrhea. 
+Doctor: Ma'am. How are you feeling now? 
+Patient: I have been sick to my stomach.  My belly has been hurting. I threw up.  
+Doctor: How many times did you vomit ma'am? 
+Patient: I don't know. 
+Doctor: Do you recall the color of the vomit? Did you see any blood or notice the color of the vomit? 
+Patient: I don't know."
+461,ASSESSMENT,Report of vomiting and abdominal pain after eating raw carrots and celery.  Etiology of this is unknown.,"Doctor: How often are you vomiting?
+Patient: At least three times until my stomach is empty.
+Doctor: Can you think of something this is related to?
+Patient: Just when I eat raw carrots and celery.
+Doctor: Do you get belly pain?
+Patient: Yes."
+643,MEDICATIONS,Occasional acetaminophen.,"Doctor: Are you taking any medications for your pain?
+Patient: Yeah, occasionally.
+Doctor: Which one?
+Patient: Just a regular pain medicine."
+453,ROS,Significant for pain in the buttock.  Otherwise negative.,"Doctor: Anything else that is going on?
+Patient: Just some pain in the buttock.
+Doctor: Okay.
+Patient: I do not have anything else.
+Doctor: Okay no fever, nausea, anything of that sort?
+Patient: Nope."
+1132,GENHX,This is a 70-year-old male who has no particular complaints other than he has just discomfort on his right side.  We have done EMG studies.  He has noticed it since his stroke about five years ago.  He has been to see a neurologist.  We have tried different medications and it just does not seem to help.  He checks his blood sugars at home two to three times a day.  He kind of adjusts his own insulin himself.  Re-evaluation of symptoms is essentially negative.  He has a past history of heavy tobacco and alcohol usage.,"Doctor: Hi there how are you?
+Patient: I am good no problem at all other than the usual.
+Doctor: And what is that?
+Patient: You know, some discomfort I have on my right side. I have been feeling that since I had a stroke five years back.
+Doctor: Right, right. We did an E M G right? 
+Patient: Yes.
+Doctor: And none of the medications we tried are helping?
+Patient: No, I also saw a neurologist, but nothing is helping
+Doctor: Okay, and are you monitoring your sugar regularly?
+Patient: Oh yes, Everyday at least two to three times a day.
+Doctor: And how bout insulin dose? 
+Patient: Oh, that I kind of adjust myself. 
+Doctor: Well, I have rechecked all the symptoms and everything looks fine. I don't see anything out of order, but we will keep monitoring. 
+Patient: Okay. 
+Doctor: And you are not smoking or drinking again are you? 
+Patient: No, not since I had the stroke.
+Doctor: In the past you had a history of heavy usage of both alcohol and smoking, you need to be careful. You are seventy years old. 
+Patient: Yeah, I am taking care of it. 
+Doctor: Alright take care then."
+573,GENHX,"This is a 30-year-old female patient presenting with the above chief complaint. She has a history of having had a similar problem last year which resolved in about three treatments. She appears to have residual from spina bifida, thus spending most of her time in a wheelchair. She relates recently she has been spending up to 16 hours a day in a wheelchair. She has developed a pressure decubitus on her right trochanter ischial area of several weeks' duration. She is now presenting for evaluation and management of same. Denies any chills or fever, any other symptoms.","Doctor: How are you, Mary? 
+Patient: I am okay, I have got this ulcer on my right hip again. 
+Doctor: Oh, is it like the one you got last time?
+Patient: Pretty much.
+Doctor: Oh, I remember that one. It took almost three treatment cycles to get resolved.
+Patient: Yeah. They keep saying I have some hidden split in my spine still. 
+Doctor: Yeah, it looks like you have residual spina bifida.
+Patient: I am just so frustrated sitting in my wheelchair. I am spending around sixteen hours a day in this wheelchair. 
+Doctor: I think, that is the reason you developed this pressure ulcer. It appears to be on the right trochanter area. In simple terms you have developed a pressure sore on the outer part of your hip. 
+Patient: Yeah, I recently celebrated my thirtieth birthday just sitting in my wheelchair the whole day.
+Doctor: Oh, I am sorry dear. So, how long since you have had this ulcer?
+Patient: It's been several weeks, so I thought I should get it checked.
+Doctor: Yeah, good thing you came. We need to treat it. Did you experience any chills or fever? 
+Patient: No.
+Doctor: Any other symptoms?
+Patient: No."
+292,FAM/SOCHX,Family history is remarkable for a remote history of cancer. Family history of heart disease and osteoarthritis.,"Doctor: Now, let's talk about your family history. Have any of them had cancer? 
+Patient: Actually, yes, I know a few family members have, but I can't remember who had what kind. 
+Doctor: That's okay. What about heart disease? Can you remember anyone having that? 
+Patient: Yes, that rings some bells. 
+Doctor: Thank you, has anyone in your family had a joint replacement? 
+Patient: I know that a lot of my family has had arthritis in the past, but I can't remember whether or not they had joint replacements, honestly."
+TR=EN-FR-EN 679,PASTMEDICALHX,"Hypertension, hypothyroidism, degenerative joint disease, GERD, anxiety disorder, Morton neuroma of her feet bilaterally, and distant history of migraine headaches some 30 years ago.","Doctor: Do you have any major medical problems that I should know? Patient: Oh, yes, I have a complete list of things that are happening, doctor. Doctor: Like what, madam? Patient: Well, I have high blood pressure, hypothyroidism, arthritis, and G E R D Doctor: I see, what about mental health, or neurological diseases? Patient: Um, I have an anxiety disorder, and I had migraines about thirty years ago. Doctor: Thank you, I see also on my picture that you have already had Morton's neuromas, is it true? Patient: Yes, I have one on both feet."
+715,FAM/SOCHX,Divorced and lives with girlfriend. One child by current girlfriend. He has 3 children with former wife. Smoked more than 15 years ago. Drinks 1-2 beers/day. Former Iron worker.,"Doctor: Are you married? 
+Patient: I'm divorced. 
+Doctor: So, do you live alone? Or do you have kids? 
+Patient: I live with my girlfriend, and we have a kid together. I also have three other kids from my former wife. 
+Doctor: Do you smoke? 
+Patient: I used to smoke. But I, I've quit like fifteen years ago. 
+Doctor: What about alcohol? 
+Patient: Yeah, I drink beer. Around one to two beers a day. 
+Doctor: Are you working? 
+Patient: I'm retired right now, but I used to work in an iron company."
+358,EDCOURSE,"The patient was removed from the backboard within the first half hour of her emergency department stay.  The patient has no significant bony deformities or abnormalities.  The patient is given a dose of Tylenol here in the emergency department for treatment of her pain.  Her pain is controlled with medication and she is feeling more comfortable and removed from the backboard.  The patient's CT scans of the abdomen appeared normal.  She has no signs of bleeding.  I believe, she has just a contusion and abrasion to her abdomen from the seatbelt and likely from the airbag as well.  The patient is able to stand and walk through the emergency department without difficulty.  She has no abrasions or lacerations.","Doctor:  Hi, how are you?
+Patient: I am okay.
+Doctor: Do you have any bone pain or issues around that? 
+Patient: No, I do not.
+Doctor: So, they gave you a dose of Tylenol here in the emergency department to treat your pain.  Is your pain under control? 
+Patient: Yes, with medication I feel it is better, but I want to be removed from the backboard.
+Doctor: Okay, let's get you off. Yeah, your C T scans of the abdomen appeared normal.  And there was no sign of bleeding.  I believe, you just have a contusion and abrasion to abdomen from the seatbelt and likely from the airbag as well.
+Patient: Oh okay.
+Doctor: It's good that you can stand and walk through the emergency department without difficulty. I do not see any abrasions or lacerations.
+Patient: Yeah, nothing like that and I can walk."
+1024,ALLERGY,Sulfa (rash).,"Doctor: What happens when you take Sulfa drugs? 
+Patient: Oh man, I get a really ugly looking rash. 
+Doctor: I'll make note of that so we have it in your chart."
+231,FAM/SOCHX,"No known history of drug or alcohol abuse.  Work, diet, and exercise patterns are within normal limits.","Doctor: Do you drink? 
+Patient: Not really, no. 
+Doctor: Any drugs? 
+Patient: No. 
+Doctor: Do you get a chance to exercise during the week?  
+Patient: I like to go on walks with my dog every day. I'm also eating a lot healthier these days.  
+Doctor: That's wonderful. How's work going for you? 
+Patient: I actually got promoted last month so it's been going well. I've had a lot more time to spend with my family as a result. 
+Doctor: That's great to hear. Congratulations! 
+Patient: Thank you so much."
+178,CC,"Here with a concern of possibly issues of short-term memory loss.  She is under exceeding amount of stress over the last 5 to 10 years.  She has been a widow over the last 11 years.  Her husband died in an MVA from a drunk driver accident.  She had previously worked at the bank in Conway Springs in Norwich and had several other jobs related to accounting or management services.  She does have an MBA in business.  Currently, she works at T-Mobile Customer Service, and there is quite a bit of technical knowledge, deadlines, and stress related to that job as well.  She feels she has trouble at times absorbing all that she needs to learn as far as the computer skills, protocols, customer service issues, etc.  She describes the job is very demanding and high stress.  She denies any history of weakness, lethargy, or dizziness.  No history of stroke.","Doctor: Hello there, how are you? 
+Patient: I am good, thank you for asking.
+Doctor: So, what brings you in today?
+Patient: Well, I think I am suffering from memory loss, like short term memory loss.
+Doctor: Okay, and why do you say so? 
+Patient: I have been under tremendous stress for the last five to ten years. I am currently working for T mobile customer service and my work is really hectic. It requires a lot of technical knowledge with project deadlines which is adding to my stress. 
+Patient: Sometimes I have trouble absorbing all the technical knowledge and computer skills or customer issues.
+Doctor: Hm.
+Patient: I did my M B A in business for a reason, I wanted to make a good career, but this job is very demanding and stressful. I previously worked at a bank in Conway Springs, Norwich. I have worked many jobs around accounting and management services, but my current job is a high stress one.
+Doctor: I see, are you married? 
+Patient: I have been widowed for past eleven years. My husband died in a car accident, he was hit by drunk driver. It was not the time for my husband to go! After he left, I had to take care of everything and that's another reason for my stress from the past several years. 
+Doctor: I am so sorry to hear that.
+Patient: Yeah.
+Doctor: Okay, so tell me any weakness or dizziness or lethargy in the past or now?
+Patient: No.
+Doctor: Any history of stroke?
+Patient: No."
+233,GENHX,"The patient is a 54-year-old right-handed male who works as a phlebotomist and respiratory therapist at Hospital. The patient states that he was attempting to do a blood gas. He had his finger of the left hand over the pulse and was inserting a needle using the right hand. He did have a protective clothing including use of gloves at the time of the incident. As he advanced the needle, the patient jerked away, this caused him to pull out of the arm and inadvertently pricked the tip of his index finger. The patient was seen and evaluated at the emergency department at the time of incident and had baseline studies drawn, and has been followed by employee health for his injury. The source patient was tested for signs of disease and was found to be negative for HIV, but was found to be a carrier for hepatitis C. The patient has had periodic screening including a blood tests and returns now for his final exam.","Doctor: What do you do in the hospital?
+Patient: I work as a phlebotomist and respiratory therapist. 
+Doctor: Ok, how old are you?
+Patient: I am fifty four.
+Doctor: You are very young.
+Patient: Thank you!
+Patient: So, as you remember I was trying to measure blood gas as I was working with a patient and I accidently jammed that needle inside my right hand index finger.   
+Patient: I am coming for regular screening.
+Doctor: Were you wearing gloves?
+Patient: Yes, I had gloves and protective clothing.
+Doctor: Yes, thank you for that. Did they screen patient?
+Patient: Yes, he got negative HIV but positive Hep C.
+Doctor: Ok.
+Patient: I am scared."
+665,ALLERGY,No known drug allergies.,"Doctor: Do you have any allergies?
+Patient: No I do not.
+Doctor: Are you sure?
+Patient: Yes I am."
+TR=EN-ES-EN 642,FAM/SOCHX,"He occasionally drinks and is a nonsmoker.  The patient participated in homosexual activity in Haiti during 1982 which he described as ""very active."" Denies intravenous drug use.  The patient is currently employed.","Doctor: So just a few quick questions before you finish. Do you smoke or drink? Patient: Sometimes I drink. I never smoked. Doctor: Any drug use? Patient: No. Doctor: Are you sexually active? Patient: Uh I was back in Haiti, but that was in eighty-two. I had several male partners, but there is no sex since you moved here. Doctor: Did you use protection at your previous meetings? Patient: Most of the time, yes. Doctor: Any history of S T Ds? Patient: No. Doctor: Are you currently working? Patient: Yes. I work for a car dealer on the street."
+TR=EN-ES-EN 1003,FAM/SOCHX,History of alcohol use in the past. He is basically requesting for more and more pain medications.  He states that he likes Dilaudid and would like to get the morphine changed to Dilaudid.  His pain is tolerable.,"Doctor: How would you rate your pain? Patient: I used to drink before, but now I have stopped it completely. Doctor: How would you rate your pain? Patient: It's tolerable, like five out of ten, but I need some pain medication. Doctor: Then why do you need more pain medication? Patient: Sometimes it gets difficult, I really need more pain medication. Doctor: Do you have morphine? Do you need more? Patient: I don't like morphine. Can you change it to Dilaudid? I like that medicine."
+938,CC,Chronic abdominal pain.,"Doctor: What's going on?
+Patient: I am having a bellyache.
+Doctor: Since when?
+Patient: Oh, it's been a while now.
+Doctor: Okay.
+Patient: Yeah."
+TR=EN-ES-EN 741,MEDICATIONS,Currently taking Toprol and Avalide for hypertension and anxiety as I mentioned.,"Doctor: Have you been taking anything for high blood pressure? Patient: Yes, I started taking Toprol and uh the one starting with an A. I forgot what it's called. Doctor: Are you talking about Avalide? Patient: Oh, right, yeah, that's the only one."
+TR=EN-ES-EN 488,FAM/SOCHX,Negative for cerebrovascular accident or cardiac disease.,"Doctor: Did anyone in the family have a stroke? Patient: No, no one had a stroke in my family. Doctor: What about someone in the family with heart disease? Patient: No one I remember. Doctor: Okay."
+694,GENHX,Quit smoking in 1996.  He occasionally drinks alcoholic beverages.,"Doctor: Hello, sir. How are you doing?
+Patient: I am doing well, thanks. Just trying to come to you more regularly to make sure my lungs and heart are okay. 
+Doctor: That's great. The previous notes said that you quit smoking. Are you still off?
+Patient: Yes, I quit in nineteen ninety six. I come yearly to the doctor's office to make sure that the damage I did to my lungs is monitored. 
+Doctor: You have a great attitude. I appreciate when patient's take their health into their own hands. We can only do so much, but it is up to the patient to bring themselves in. 
+Patient: Yeah. I smoked for a long time and I know it was bad for me. It was just the norm back in the day. 
+Doctor: Do you drink at all?
+Patient: I do. Only occasionally."
+826,FAM/SOCHX,Noncontributory.,"Doctor: Any health issues on your mom or dad's side? 
+Patient: No, we're a pretty healthy family."
+536,FAM/SOCHX,"Negative for any colon cancer or polyps.  Her father died of mesothelioma, mother died of Hodgkin lymphoma.","Doctor: Does anyone in your family have or have history of any colon cancer or unusual polyps? 
+Patient: No. 
+Doctor: Any other family history? 
+Patient: Yes, my father died of a cancer called mesothelioma and my mother died of Hodgkin's Lymphoma."
+1165,GENHX,"Briefly, the patient is a 71-year-old female referred with increasingly symptomatic large nodular thyroid goiter.  She presented now after informed consent for the  procedure, understanding the inherent risks and complications and risk-benefit ratio.","Doctor: I see here that Doctor- 
+Patient: Yes, Doctor X referred me. My thyroid is an absolute mess. I have never been in so much pain in my seventy one years. 
+Doctor: I'm so sorry to hear that. I hope we're able to get you the care that you need. 
+Patient: I've been coughing up a storm. It's gotten to be way too enlarged. 
+Doctor: It's good that you're here today to get the surgery rolling. 
+Patient: I signed the paperwork and everything. 
+Doctor: I'll go over the risk and benefits one more time. Any questions for me?
+Patient: When is the earliest I can get this done again? 
+Doctor: Given your symptoms, I'd like to get you in in the next few days."
+TR=EN-ES-EN 347,FAM/SOCHX,Alzheimer's disease and stroke on paternal side of family.,"Doctor: What is your family medical history? Patient: My father had Alzheimer's disease. He's in a facility that cares about him now. Doctor: I feel it must be difficult. Patient: He is. My aunt, his sister helped me get everything ready for him. She had a stroke last month. Doctor: Oh no. How is she now? Patient: She's home now but her husband is having to help take care of her. Doctors said it looks good for her to have a full or almost complete recovery. Doctor: That's a relief. Patient: Yes, it is! Doctor: Any other family health problems you know? Patient: Not that I know."
+543,GENHX,"The patient is a 10-day-old Caucasian female here for approximately 1 minute bilateral arm and leg jerks, which started at day of life 1 and have occurred 6 total times since then.  Mom denies any apnea, perioral cyanosis, or color changes.  These movements are without any back arching.  They mainly occur during sleep, so mom is unaware of any eye rolling.  Mom is able to wake the patient up during this periods and stop the patient's extremity movements. Otherwise, this patient has been active, breast-feeding well, although she falls asleep at the breast.  She is currently taking in 15 to 20 minutes of breast milk every 2 to 3 hours.  She is having increased diapers up to 8 wet and 6 to 7 dirty-yellow stools per day.","Doctor: Hello there, how are you?
+Guest_family: I am little scared. 
+Doctor: I understand, so how old is she? 
+Guest_family: She is ten days old today. 
+Doctor: And just wanted to confirm the ethnicity is Caucasian, right?
+Guest_family: Yes. 
+Doctor: Okay, so tell me what's going on with her?
+Guest_family: I was feeding her and then I suddenly noticed this unusual jerky movement in both her arms and legs. 
+Guest_family: It lasted about a minute. 
+Doctor: When did you first notice it? 
+Guest_family: The first day when I was feeding her, she was barely a day old.
+Doctor: Okay, and how many times till now?
+Guest_family: About six times. 
+Doctor: Did you notice any interrupted breathing or bluish color around her mouth? 
+Guest_family: No.
+Doctor: While the episode occurs do you notice any color changes in the baby? 
+Guest_family: No.
+Doctor: Did you happened to notice any arching of the back or eyes rolling back?
+Guest_family: No, it usually happens while she is sleeping, so I didn't notice her eye movements. But I am able to wake her up and stop the hand and leg movements. 
+Doctor: Okay. Otherwise, is she feeding well and is active? 
+Guest_family: Yes, absolutely! Although she falls asleep a lot during breast feeding but other than that everything is fine.
+Doctor: And how often are you feeding her and for how long? 
+Guest_family: I breast feed her every two to three hours for about fifteen to twenty minutes. 
+Doctor: Okay, and how many dirty diapers? 
+Guest_family: Well, her pee diapers have increased to up to eight and I would say about six to seven poopy diapers a day.
+Doctor: And did you notice the color of her poop? 
+Guest_family: Yeah, it's like dirty yellowish color. 
+Doctor: Okay."
