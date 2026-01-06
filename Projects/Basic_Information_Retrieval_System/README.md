@@ -1,7 +1,7 @@
 # Information Retrieval
 
 
-CS665, S24  Project 
+CS665, Summer24  Project 
 
 Sreya Jain Tobji
 
